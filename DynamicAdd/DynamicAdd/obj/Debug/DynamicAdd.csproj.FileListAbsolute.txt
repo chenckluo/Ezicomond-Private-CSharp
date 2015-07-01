@@ -1,0 +1,9 @@
+d:\C# projects\DynamicAdd\DynamicAdd\bin\Debug\DynamicAdd.exe.config
+d:\C# projects\DynamicAdd\DynamicAdd\bin\Debug\DynamicAdd.exe
+d:\C# projects\DynamicAdd\DynamicAdd\bin\Debug\DynamicAdd.pdb
+d:\C# projects\DynamicAdd\DynamicAdd\obj\Debug\DynamicAdd.csprojResolveAssemblyReference.cache
+d:\C# projects\DynamicAdd\DynamicAdd\obj\Debug\DynamicAdd.Form1.resources
+d:\C# projects\DynamicAdd\DynamicAdd\obj\Debug\DynamicAdd.Properties.Resources.resources
+d:\C# projects\DynamicAdd\DynamicAdd\obj\Debug\DynamicAdd.csproj.GenerateResource.Cache
+d:\C# projects\DynamicAdd\DynamicAdd\obj\Debug\DynamicAdd.exe
+d:\C# projects\DynamicAdd\DynamicAdd\obj\Debug\DynamicAdd.pdb
